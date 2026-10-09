@@ -1,0 +1,90 @@
+=== PAGE 1 ===
+Sharath Kumar Ganta 
+Digital Transformation and AI Architect 
++91 9172762318   |   Sharath.Ghanta@gmail.com   |   linkedin.com/in/sharath-pawar-4b340514b 
+PROFESSIONAL SUMMARY 
+Digital Transformation Architect with 13+ years of experience in RPA, Generative AI, and Agentic AI solutions. Delivered 
+80+ automation solutions reducing costs by 60–70% and improving SLA compliance by 60%. Experts in LLM integration, 
+AI agents, hyper automation, AI governance, and enterprise architecture. 
+CORE COMPETENCIES 
+• GenAI & LLM Integration (Azure OpenAI, GPT-4, Claude, Llama)  
+• Memory Management, Planning Agents, AI Orchestration Governance, 
+ Prompt Security, Hallucination Control 
+• Agentic AI & Autonomous Workflows, RAG 
+• Agentic Frameworks like Lang Chain (chains, tools, agents) Lang Graph (multi-step 
+workflows) ,AutoGen (multi-agent systems)  
+• Intelligent Automation & Hyper automation, multi-agent Orchestration 
+• AI Governance & Responsible AI  
+• Cloud Architecture (AWS, Azure)  
+• RPA Platforms (Automation Anywhere A360, UiPath, Power Automate)  
+• Process Mining (Celonis)  
+• DevOps, CI/CD & Agile Transformation  
+•  Enterprise Architecture 
+  
+TECHNICAL SKILLS 
+RPA Tools Automation Anywhere (AA360), UiPath, Power Automate, Blue Prism, Work Fusion 
+Process Mining Celonis Process Mining, Celonis Task Mining 
+Gen AI / AI Agentic AI, NLP, LLM, Generative AI, Cognitive Automation, RAG Architecture,  
+Cloud AWS (Solutions Architect), Microsoft Azure 
+Programming Python, JavaScript, HTML5, CSS, .NET, FastAPI, Async workflows 
+Web Services REST, SOAP, WSDL, XML, Web Services, Identity & Access Management 
+Databases MySQL, Vector Database, Graph DB, Manago DB,Vector Databases 
+Analytics Power BI 
+Integrations SAP, Salesforce (SFDC), AI/ML Platforms 
+Methodologies Agile, Scrum, Lean, Six Sigma (6σ), DevOps 
+KEY ACHIEVEMENTS 
+• Delivered 80+ RPA & GenAI, AI Agents automation solutions 
+• Reduced manual effort by 70% 
+• Improved SLA compliance by 60% 
+• Established and scaled RPA CoE across organizations 
+ 
+ 
+=== HYPERLINKS ===
+=== PAGE 2 ===
+PROFESSIONAL EXPERIENCE 
+Automation Lead | Aligned Automation | 2019 – Present 
+• Led 80+ Automation Solutions reducing effort by 70% 
+• Defined enterprise hyper automation strategy 
+• Improved delivery speed by 40% 
+• Ensured 99.9% platform availability 
+• Led pre-sales and architecture for enterprise clients 
+• Lead end-to-end design, development, deployment, and operations of RPA and Gen AI-powered bots across 
+enterprise clients. 
+• Architect intelligent automation solutions integrating Automation Anywhere, UiPath, and Power Automate with SAP, 
+Salesforce, and AI/ML platforms. 
+• Drive Agile transformation strategy includes roadmap creation, coaching, and mentoring across cross-functional 
+teams and managing directors. 
+• Conduct Agile and DevOps assessments to enable Continuous Improvement and reinforce Agile Ways of Working. 
+• Lead pre-sales activities including feasibility assessments, ROI calculations, and solution architecture for prospective 
+clients. 
+• Collaborate with Process SMEs to prepare Process Design Documents (PDD) and Solution Design Documents (SDD). 
+• Design and implement Disaster Recovery and Business Continuity strategies for automation platforms. 
+• Enable clients to incubate, scale, and institutionalize transformation COEs, POTs, POCs, and POVs. 
+• Develop configurable alert mechanisms (email/SMS) for bot monitoring and SLA compliance. 
+ 
+RPA Center of Excellence (CoE) Lead | Yash Technologies | 2018 – 2019 
+• Established and led the RPA Center of Excellence, defining best practices, governance standards, and automation 
+frameworks. 
+• Designed cognitive bots combining RPA with AI/ML and NLP capabilities, advancing automation beyond rule-based 
+processes. 
+• Mentored development teams on bot design patterns, deployment pipelines, and operational excellence. 
+• Assessed and prioritized automation candidates using ROI-driven feasibility analysis. 
+Senior RPA Consultant | Capgemini | 2017 – 2018 
+• Delivered RPA consulting engagements across multiple industries, implementing bots to automate complex business 
+processes. 
+• Led solution design workshops with client stakeholders, translating business requirements into scalable automation 
+architectures. 
+• Promoted Agile and DevOps cultural change to support and accelerate RPA adoption, tracking maturity through 
+assessment frameworks. 
+• Championed process optimization using Lean and Six Sigma methodologies to maximize automation ROI. 
+Senior RPA Consultant |  Allvy Software Solutions | 2012 – 2017 
+• Delivered full-lifecycle RPA implementations including requirements analysis, design, development, testing, and 
+production deployment. 
+• Developed automated solutions using Automation Anywhere and related RPA tools, integrating with web services 
+(REST, SOAP, XML). 
+• Built expertise in process digitization, AI/Robotics, and advanced data analytics to support intelligent automation 
+initiatives. 
+• Collaborated with business stakeholders to educate teams on production bot management and process governance. 
+EDUCATION 
+Bachelor of Technology (B. Tech) | JNTU Hyderabad | 2008 – 2012 
+=== HYPERLINKS ===
